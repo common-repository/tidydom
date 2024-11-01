@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:export-ydpi="52.889999"
+   inkscape:export-xdpi="52.889999"
+   inkscape:export-filename="/Users/jesse/Projects/authjar-wordpress/wp-content/plugins/tidydom/.wordpress-org/icon-128x128.png"
+   sodipodi:docname="tidydom-icon.svg"
+   id="svg840"
+   version="1.1"
+   viewBox="0 0 232.34 232.34"
+   xml:space="preserve"
+   width="232.34"
+   height="232.34"><metadata
+   id="metadata846"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs844" /><sodipodi:namedview
+   inkscape:current-layer="svg840"
+   inkscape:window-maximized="0"
+   inkscape:window-y="57"
+   inkscape:window-x="55"
+   inkscape:cy="116.17"
+   inkscape:cx="116.17"
+   inkscape:zoom="2.659895"
+   showgrid="false"
+   id="namedview842"
+   inkscape:window-height="1165"
+   inkscape:window-width="1505"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+    <style
+   type="text/css"
+   id="style833">
+        .st0 {
+            fill: rgb(104, 117, 245);
+        }
+
+        .st1 {
+            fill: #FFF;
+        }
+    </style>
+    <g
+   transform="translate(-545.37,-883.86)"
+   id="g845">
+        <path
+   class="st0"
+   d="m 741.94,1116.2 h -160.8 c -19.75,0 -35.77,-16.01 -35.77,-35.77 v -160.8 c 0,-19.75 16.01,-35.77 35.77,-35.77 h 160.8 c 19.75,0 35.77,16.01 35.77,35.77 v 160.8 c 0,19.76 -16.02,35.77 -35.77,35.77 z"
+   id="path835" />
+        <path
+   class="st1"
+   d="M 581.26,970.06 H 568.8 v -45.27 c 0,-9.67 7.86,-17.53 17.53,-17.53 h 45.27 v 12.46 h -45.27 c -2.79,0 -5.07,2.27 -5.07,5.07 z"
+   id="path837" />
+        <path
+   class="st1"
+   d="m 736.75,1092.7 h -45.27 v -12.46 h 45.27 c 2.8,0 5.07,-2.27 5.07,-5.07 v -45.27 h 12.46 v 45.27 c 0,9.67 -7.86,17.53 -17.53,17.53 z"
+   id="path839" />
+        <path
+   class="st1"
+   d="m 631.6,1092.7 h -45.27 c -9.67,0 -17.53,-7.87 -17.53,-17.53 v -45.27 h 12.46 v 45.27 c 0,2.8 2.27,5.07 5.07,5.07 h 45.27 z"
+   id="path841" />
+        <path
+   class="st1"
+   d="m 754.28,970.06 h -12.46 v -45.27 c 0,-2.79 -2.27,-5.07 -5.07,-5.07 h -45.27 v -12.46 h 45.27 c 9.67,0 17.53,7.86 17.53,17.53 z"
+   id="path843" />
+    </g>
+</svg>
